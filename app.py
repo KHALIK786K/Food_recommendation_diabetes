@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 # Load data
-df = pd.read_csv('C:\\Users\\ainul\\Downloads\\New folder (2)\\New folder (2)\\main_dataset.csv')
+df = pd.read_csv('https://github.com/KHALIK786K/Food_recommendation_diabetes/blob/main/main_dataset.csv')
 
 
 # Data preprocessing
